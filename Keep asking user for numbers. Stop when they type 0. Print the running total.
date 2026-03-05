@@ -1,0 +1,6 @@
+number=int(input())
+s=0
+while number!=0:
+    number=int(input())
+    s=s+1
+print(s)
